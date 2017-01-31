@@ -1,0 +1,20 @@
+{
+  "name": "instantsearch-showmore",
+  "version": "0.0.1",
+  "private": "true",
+  "description": "Show More button for instantsearch.js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files '*.css, *.js, *.html' --no-open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:julienpa/instantsearch-showmore.git"
+  },
+  "author": "Julien <julien.paroche@algolia.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.10.0"
+  }
+}

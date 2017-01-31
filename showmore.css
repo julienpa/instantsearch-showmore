@@ -1,0 +1,21 @@
+#infinite-hits > p {
+  padding: 10px 20px 30px 20px;
+  text-align: center;
+}
+
+#infinite-hits > p button {
+  border: none;
+  border-radius: 2px;
+  background-color: #eee;
+  padding: 10px 20px;
+  font-size: 1em;
+}
+
+#infinite-hits > p button:hover {
+  cursor: pointer;
+  background-color: #ddd;
+}
+
+#infinite-hits > p button:focus {
+  outline: none;
+}
