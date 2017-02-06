@@ -21,7 +21,6 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.hitsWithShowMore({
     container: '#infinite-hits',
-    showMoreButton: '#show-more',
     hitsPerPage: 5,
     templates: {
       item: getTemplate('hit'),
